@@ -172,6 +172,8 @@ export const courseList = [
     "AI for Product Planning",
     "AI for Product Metrics",
     "AI for Stakeholder Management",
+    "Professional Scrum Master–AI Essentials (PSM-AI) Certification Training",
+    "Professional Scrum Product Owner–AI Essentials (PSPO-AI Essentials) Certification Training",
     "Professional Scrum Product Owner (PSPO) - Advanced Course",
     "Others"
   ];
